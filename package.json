@@ -1,0 +1,26 @@
+{
+"name": "task-manager-web-application-gf",
+"version": "1.0.0",
+"description": " designed to help users organize and manage their tasks efficiently. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/blaneytullys/Task-Manager-Web-Application.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "blaneytullys",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
